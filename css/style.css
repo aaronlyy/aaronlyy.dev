@@ -261,6 +261,7 @@ section > ul > li {
 .project .links {
 	display: flex;
 	flex-direction: row;
+	margin-top: auto;
 	gap: .5rem
 }
 
